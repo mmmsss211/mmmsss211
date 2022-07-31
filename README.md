@@ -3,9 +3,7 @@
 <h4 align="center">A web developer with a passion to help start-ups build their business</h4>
 </div>
 <div align="center">
-  <a href="https://1999azzar.github.io/1999AZZAR/">
-  <img  src="https://github.com/mmmsss211/mmmsss211/blob/main/assets/grid-snake.svg#gh-dark-mode-only"
-       alt="snake" /></a>
+![snake gif](https://github.com/mmmsss211/mmmsss211/blob/output/github-contribution-grid-snake.gif)
 </div>
 
 
