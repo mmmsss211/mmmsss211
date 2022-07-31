@@ -3,7 +3,9 @@
 <h4 align="center">A web developer with a passion to help start-ups build their business</h4>
 </div>
 <div align="center">
-![snake gif](https://github.com/mmmsss211/mmmsss211/blob/output/github-contribution-grid-snake.gif)
+  <a href="https://www.veltigore.com/">
+  <img  src="https://github.com/mmmsss211/mmmsss211/blob/output/github-contribution-grid-snake.svg"
+       alt="snake" /></a>
 </div>
 
 
