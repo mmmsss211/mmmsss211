@@ -7,7 +7,13 @@
   <img  src="https://github.com/mmmsss211/mmmsss211/blob/output/github-contribution-grid-snake.svg"
        alt="snake" /></a>
 </div>
-
-
-![mmmsss211's Stats](https://github-readme-stats.vercel.app/api?username=mmmsss211&theme=dark&show_icons=true&hide_border=true&count_private=true)
-![mmmsss211's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mmmsss211&theme=dark&hide_border=true)
+<div>
+  <h2 align="center">GitHub stats </h2>
+  <br />
+      <p align="center">
+        <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=mmmsss211&theme=dark&show_icons=true&hide_border=true&count_private=true" />
+        <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=mmmsss211&theme=dark&hide_border=true" />
+        </a>
+     </p>
+   <br>
+</div>
