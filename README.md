@@ -2,7 +2,11 @@
 <h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, Ian here</h1>
 <h4 align="center">A web developer with a passion to help start-ups build their business</h4>
 </div>
-
+<div align="center">
+  <a href="https://1999azzar.github.io/1999AZZAR/">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/assets/grid-snake.svg"
+       alt="snake" /></a>
+</div>
 
 
 ![mmmsss211's Stats](https://github-readme-stats.vercel.app/api?username=mmmsss211&theme=dark&show_icons=true&hide_border=true&count_private=true)
